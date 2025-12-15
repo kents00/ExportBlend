@@ -2,7 +2,9 @@
 
 Export your Blender node groups to readable, executable Python code with one click.
 
-![ezgif-19899e4bfce2737b](https://github.com/user-attachments/assets/7b21d02b-ddcf-4d79-9879-0a2fdb99cfa9)
+
+https://github.com/user-attachments/assets/b68140df-d7d8-4497-b5fa-da9e345917a4
+
 
 ## Introduction
 
